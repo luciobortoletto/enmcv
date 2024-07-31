@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.3.0](https://github.com/luciobortoletto/enmcv/compare/fabric-v2.2.0...fabric-v2.3.0) (2024-07-31)
+
+
+### ★ Features
+
+* **fabric/Sodium:** set Weather quality to Default ([4c9b1bf](https://github.com/luciobortoletto/enmcv/commit/4c9b1bfd6e453b5b88dea672307f4eb1f78d6edd))
+
+
+### ⚘ Modpack Updates
+
+* **fabric:** updated mods ([a3ef1d4](https://github.com/luciobortoletto/enmcv/commit/a3ef1d41c7bca6066a864320d1341f6fd66cff80))
+* **fabric:** updated mods ([8d5bfdd](https://github.com/luciobortoletto/enmcv/commit/8d5bfddbd35f481a41f97d114ce82e65b1aebad6))
+
 ## [2.2.0](https://github.com/luciobortoletto/enmcv/compare/fabric-v2.1.4...fabric-v2.2.0) (2024-07-29)
 
 
